@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/badge/Discord-fisken01-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000)](https://discord.com/users/799947770014072852)
 
 :fountain_pen: I have a passion for programming</br>
-:computer: I love Frontend and hate Backend</br>
+:computer: I slowly becomming a Full Stack developer</br>
 :video_game: I'm an gamer</br>
 :shower: Fun fact: I take cold showers</br>
 :mailbox: How to reach me: <a href="https://discord.com/users/799947770014072852">fisken01</a> on discord.
