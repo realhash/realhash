@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Noah
 
-[![Discord](https://img.shields.io/badge/Discord-fisken01-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000)](https://discord.com/users/799947770014072852)
+[![Discord](https://img.shields.io/badge/Discord-s0xy.dev-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000)](https://discord.com/users/799947770014072852)
 
 :fountain_pen: I have a passion for programming</br>
 :computer: I slowly becomming a Full Stack developer</br>
