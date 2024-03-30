@@ -7,7 +7,7 @@
 :computer: I slowly becomming a Full Stack developer</br>
 :video_game: I'm an gamer</br>
 :shower: Fun fact: I take cold showers</br>
-:mailbox: How to reach me: <a href="https://discord.com/users/799947770014072852">fisken01</a> on discord.
+:mailbox: How to reach me: <a href="https://discord.com/users/799947770014072852">s0xy</a> on discord.
 
 | <a href="https://github.com/fisken01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fisken01&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Noah's github stats" /></a> | <a href="https://github.com/fisken01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisken01&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
