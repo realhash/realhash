@@ -9,7 +9,7 @@
 :shower: Fun fact: I take cold showers</br>
 :mailbox: How to reach me: <a href="https://discord.com/users/799947770014072852">s0xy</a> on discord.
 
-| <a href="https://github.com/s0xy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fisken01&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Noah's github stats" /></a> | <a href="https://github.com/s0xy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisken01&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/s0xy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=s0xy&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Noah's github stats" /></a> | <a href="https://github.com/s0xy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0xy&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## Top repositories
