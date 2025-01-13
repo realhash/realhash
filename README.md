@@ -7,3 +7,7 @@ Skills: C++, LUA, JS, HTML, CSS, C#, C, PY
 - 🌱 I’m currently learning C++ and JAVA.
 - 📫 How to reach me: I only see my Discord (@hash.dev)
 - 😄 Pronouns: he/him
+
+![realhash's Stats](https://github-readme-stats.vercel.app/api?username=realhash&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![realhash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=realhash&theme=dracula&hide_border=true)
+![realhash's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realhash&theme=dracula&show_icons=true&hide_border=true&layout=compact)
