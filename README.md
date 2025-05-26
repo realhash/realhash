@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Here's a glimpse of the skills i have:<br><br><strong>‣ Front-End Technologies:</strong>React.js, HTML5, Redux.js <br>* **Back-End Technologies:** Node.js, Express.Js, Apollo<br>* **Deployment:** Vercel<br>* **Programming Languages:** JavaScript, Python, C#, C++, Java, Lua, TS<br>* **Databases:* MySQL, MongoDB, MariaDB<br>* **Bundle Technologies::** Vite, Webpack<br>* **Styling:** TailwindCSS, SASS/SCSS, Bootstrap, CSS3</p>
+<p align="left">Here's a glimpse of the skills i have:<br><br><strong>‣ Front-End Technologies:</strong> React.js, HTML5, Redux.js <br><strong>‣ Back-End Technologies:</strong> Node.js, Express.Js, Apollo<br><strong>‣ Deployment:</strong> Vercel<br><strong>‣ Programming Languages:</strong> JavaScript, Python, C#, C++, Java, Lua, TS<br><strong>‣ Databases:</strong> MySQL, MongoDB, MariaDB<br><strong>‣ Bundle Technologies:</strong> Vite, Webpack<br><strong>‣ Styling:</strong> TailwindCSS, SASS/SCSS, Bootstrap, CSS3</p>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">* I'm currently working on small fun projects in C# and the cyber-security branch. I do have a larger project on the sides.<br>* I'm currently learning Cyber Security.<br>* Ask me anything about coding</p>
+<p align="left">‣ I'm currently working on small fun projects in C# and the cyber-security branch. I do have a larger project on the sides.<br>‣ I'm currently learning Cyber Security.<br>‣ Ask me anything about coding</p>
 
 ###
 
