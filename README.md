@@ -16,7 +16,7 @@
 
 ###
 
-<h5 align="left">* Experienced in Software Development<br>* Currently learning Cyber Security and C#<br>* You can reach me out on discord (@00.ping)<br>* My pronouns are he/him.</h5>
+<h5 align="left">‣ Experienced in Software Development<br>‣ Currently learning Cyber Security and C#<br>‣ You can reach me out on discord (@00.ping)<br>‣ My pronouns are he/him.</h5>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Here's a glimpse of the skills i have:<br><br><h4>‣ Front-End Technologies:<p>React.js, HTML5, Redux.js</p></h4> <br>* **Back-End Technologies:** Node.js, Express.Js, Apollo<br>* **Deployment:** Vercel<br>* **Programming Languages:** JavaScript, Python, C#, C++, Java, Lua, TS<br>* **Databases:* MySQL, MongoDB, MariaDB<br>* **Bundle Technologies::** Vite, Webpack<br>* **Styling:** TailwindCSS, SASS/SCSS, Bootstrap, CSS3</p>
+<p align="left">Here's a glimpse of the skills i have:<br><br><strong>‣ Front-End Technologies:</strong>React.js, HTML5, Redux.js <br>* **Back-End Technologies:** Node.js, Express.Js, Apollo<br>* **Deployment:** Vercel<br>* **Programming Languages:** JavaScript, Python, C#, C++, Java, Lua, TS<br>* **Databases:* MySQL, MongoDB, MariaDB<br>* **Bundle Technologies::** Vite, Webpack<br>* **Styling:** TailwindCSS, SASS/SCSS, Bootstrap, CSS3</p>
 
 ###
 
