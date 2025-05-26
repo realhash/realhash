@@ -16,7 +16,7 @@
 
 ###
 
-<h5 align="left">‣ Experienced in Software Development<br>‣ Currently learning Cyber Security and C#<br>‣ You can reach me out on discord (@00.ping)<br>‣ My pronouns are he/him.</h5>
+<h4 align="left">‣ Experienced in Software Development<br>‣ Currently learning Cyber Security and C#<br>‣ You can reach me out on discord (@00.ping)<br>‣ My pronouns are he/him.</h4>
 
 ###
 
